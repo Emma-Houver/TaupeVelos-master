@@ -1,0 +1,14 @@
+<?php
+
+  // Parametres de configuration de la connexion
+  // -> permet de porter l'application en ne modifiant qu'une seule fois
+  //	les param�tres de connexions � un serveur MySQL
+
+  $host="127.0.0.1";
+  $user="root";
+  $pass="";
+  $base="TaupeVelos";
+  $id_user="0000";
+  $port="3306";
+  //$port="8889";
+?>
